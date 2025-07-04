@@ -22,7 +22,7 @@ repository               : "adrianlillo/adrianlillo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fotocv.jpeg"
+  avatar           : "fotocv.png"
   name             : "Adrián Lillo"
   pronouns         : # example: "she/her"  
   bio              : "I'm a first year PhD student at the university of Seville. My interests are enumerative combinatorics, algebraic combinatorics, representation theory and graph theory."
